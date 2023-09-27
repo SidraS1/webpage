@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+ table,th,td{
+   border:10px dark brown;
+ } 
+ 
+  </style>
+</head>
+  <body>
+<table style="width:100% ; background-color:lightgray ;">
+
+<tr>
+ <th colspan="8" style="text-align: center;">
+  <img src="D:/Download%20D/xm/htdocs/flowershop.jpeg" alt="Banner" width="100" height="85">
+</th>
+
+
+
+   <th  style="font-size: 30px; "><a href="https://gooogle"><b>HOME</b></a></th>
+
+    <th style="font-size: 30px; "><i>
+      ABOUT
+    </i></th>
+    <th style="font-size: 30px; "><mark>
+      SERVICES
+    </mark></th>
+    <th style="font-size: 30px; "><mark>
+      CONTROL
+    </mark></th>
+ 
+</tr>
+<tr>
+
+<th style="font-size: 30px; padding-top: 10px; padding-bottom: 10px;"><b>Categories</b></th>
+
+
+
+</tr>
+<tr>
+<th style="font-size:25px;  padding-top: 10px; padding-bottom: 10px;"><a href="https://gooogle"><i>Pink Flower </i></th>
+</tr>
+<tr>
+<th style="font-size:25px;  padding-top: 10px; padding-bottom: 10px; "><a href="https://gooogle"><i> White  Flower </i></th>
+</tr>
+<tr>
+<th style="font-size:25px;  padding-top: 10px; padding-bottom: 10px; " ><a href="https://gooogle"><i>Red Flower </i></th>
+</tr>
+<tr>
+
+<th colspan ="55" ><img src="D:/Download%20D/xm/htdocs/forget.jpeg" atl="Banner" style="max-width:50%; height:10;"></td> 
+
+</tr>
+ <tr>
+            <th colspan="60" style="text-align: center;">
+                <div>
+                       <img src="D:/Download%20D/xm/htdocs/ye.jpeg" alt="Image 2" style="margin-right: 10px;">
+                    <img src="D:/Download%20D/xm/htdocs/pink.jpeg" alt="Banner" style="margin-right: 10px;">
+                    <img src="D:/Download%20D/xm/htdocs/gree.jpeg" alt="Image 3">
+                     
+                </div>
+            </th>
+        </tr>
+
+<th colspan ="10" style ="background-color:Pink ; text-align: left; color: pink; padding: 40px;"><a href="https://www.facebook.com">Visit FaceBook</a></th>
+<th  style="text-align:center ; color: blue; background-color:Pink ;">&copy; 2023 Flower Shop</th>
+<th colspan ="25" style ="background-color:Pink ; text-align: left; color: pink; padding: 40px;"><a href="https://www.google.com">Visit GOOGLE</a></th>
+
+
+</body>
+</html>
